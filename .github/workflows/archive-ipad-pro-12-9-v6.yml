@@ -2,7 +2,7 @@ name: Archive iPad Pro 12.9 v6 Xcode project
 
 on:
   push:
-    branches: [ipad-pro-12-9-trollstore-lite]
+    branches: [ipad-pro-12-9-palera1n-sileo-troll-lite]
     paths:
       - '.github/workflows/archive-ipad-pro-12-9-v6.yml'
 

@@ -3,7 +3,7 @@ name: Build iPad Pro 12.9 TrollStore Lite edition
 on:
   workflow_dispatch:
   push:
-    branches: [ipad-pro-12-9-trollstore-lite]
+    branches: [ipad-pro-12-9-palera1n-sileo-troll-lite]
 
 permissions:
   contents: read
