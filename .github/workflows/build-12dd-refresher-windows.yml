@@ -3,7 +3,7 @@ name: Build 12DD Windows Refresher
 on:
   push:
     branches:
-      - 12dd-refresher-windows
+      - apple-7day-12dd-refresher-windows
     paths:
       - tools/12dd-refresher/**
       - .github/workflows/build-12dd-refresher-windows.yml
