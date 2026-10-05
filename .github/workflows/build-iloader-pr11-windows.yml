@@ -3,7 +3,7 @@ name: Build patched iLoader Windows
 on:
   push:
     branches:
-      - iloader-pr11-windows
+      - apple-503-block-iloader-pr11-windows
     paths:
       - .github/workflows/build-iloader-pr11-windows.yml
   workflow_dispatch:
