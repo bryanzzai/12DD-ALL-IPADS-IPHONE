@@ -3,7 +3,7 @@ name: Build SideStore Lite iPadOS concert house
 on:
   workflow_dispatch:
   push:
-    branches: [sidestore-lite]
+    branches: [ipad-9-sidestore-localdevvpn-iloader]
 
 permissions:
   contents: read

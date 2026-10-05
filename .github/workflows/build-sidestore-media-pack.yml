@@ -3,7 +3,7 @@ name: Build SideStore permanent media pack
 on:
   workflow_dispatch:
   push:
-    branches: [sidestore-lite]
+    branches: [ipad-9-sidestore-localdevvpn-iloader]
     paths:
       - '.github/workflows/build-sidestore-media-pack.yml'
       - 'Scripts/generate_full_catalog.mjs'
