@@ -3,7 +3,7 @@ name: Build patched iLoader Intel macOS
 on:
   push:
     branches:
-      - iloader-pr11-intel
+      - apple-503-block-iloader-pr11-intel
     paths:
       - .github/workflows/build-iloader-pr11-intel.yml
   workflow_dispatch:
