@@ -3,7 +3,7 @@ name: Build SideStore Lite iPhone 12 Pro Max
 on:
   workflow_dispatch:
   push:
-    branches: [iphone-12-pro-max]
+    branches: [iphone-12-sidestore-iloader-portrait]
 
 permissions:
   contents: read
