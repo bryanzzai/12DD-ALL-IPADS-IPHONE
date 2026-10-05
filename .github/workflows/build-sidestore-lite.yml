@@ -3,7 +3,7 @@ name: Build iPad Air 2 TrollStore edition
 on:
   workflow_dispatch:
   push:
-    branches: [ipad-air-2]
+    branches: [ipad-air-2-trollstore-jailbreak]
 
 permissions:
   contents: read
